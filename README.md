@@ -3,7 +3,7 @@ I zoomed out for a reason, damnit.
 
 This mod makes camera move faster when you are zoomed out.
 
-Need to restart the game after MCM config setup for this mod to take effect
+**Need to restart the game after MCM config setup for this mod to take effect**
 
 This speed scaling can be configured on MCM. So you could go even faster when you are zoomed out.
 
