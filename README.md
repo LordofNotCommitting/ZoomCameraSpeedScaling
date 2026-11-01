@@ -9,3 +9,9 @@ This speed scaling can be configured on MCM. So you could go even faster when yo
 
 Thank you NBK_RedSpy for letting me use the code for camera speed toggle mod:
 https://steamcommunity.com/sharedfiles/filedetails/?id=3475334917
+
+Changelog:
+
+1.01:
+
+Ditch usage of ticking time bomb that is State.Resolve function.
